@@ -1,5 +1,6 @@
 import React from 'react'
+import { App } from './App'
 
-function App() {
-  return <h1>Oi</h1>
+function Home() {
+  return <App />
 }
